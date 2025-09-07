@@ -159,7 +159,7 @@
   .container__ link {
     text-decoration: none;
 
-}
+}}
 
 @media screen and (min-width: 1728px) {
     .container__link {
@@ -185,4 +185,5 @@
 
 
 }
+
 

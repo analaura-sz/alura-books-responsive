@@ -155,9 +155,8 @@
     .container__link {
         display: flex;
         align-items: center;
-        text-transform: none;
+        text-decoration: none;
         color: var(--preto);
-           text-decoration: none;
     }
 
     .container__texto {
@@ -172,6 +171,7 @@
     .opcoes {
         margin-right: auto;
     }
+
 
 
 }
